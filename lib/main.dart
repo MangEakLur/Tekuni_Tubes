@@ -5,7 +5,7 @@ void main() {
   //tes/testest
 }
 
-class MyApp extends StatelessWidget {
+ extends StatelessWidget {
   const MyApp({super.key});
 
   // This widget is the root of your application.
